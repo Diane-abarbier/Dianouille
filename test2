@@ -1,1 +1,5 @@
-asdlfujhsakj
+git add "nomdufichier"
+git commit -m "message"
+git push
+
+git pull
